@@ -1,0 +1,39 @@
+
+a:link,a:visited {
+	color:#483D8B;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#800000;
+	text-decoration:underline;
+}
+a{
+	background-color:#FFD700;
+	display:block;
+	padding: 20px 10px;
+}
+div{
+	background-color: white;
+	border-radius:20px;
+	border: 7px groove #800000;
+	text-align:center;
+}
+ul {
+list-style-type: none;
+margin:0;
+}
+li {
+	display: inline-block;
+	border-color:black;
+	border-width: 2px;
+	border-style: solid;
+	margin :`0;
+}
+#left{
+	border-radius: 40px 0px 0px 10px;
+	}
+#right{
+	border-radius: 0px 40px 10px 0px;
+}
+	
+	
