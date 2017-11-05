@@ -1,6 +1,13 @@
-p {
+p,td {
     font :25px/32px Verdana;
 }
+td{
+border: 2px dotted black}
 h1{color:#B22222;
    font : 70px/90px Impact
    }
+th{
+	color:#B22222;
+	font-family:Impact;
+	font-size: 30px;
+}
